@@ -34,7 +34,7 @@ This is where everything comes together to create the giant, awful mess that it 
 this exists to keep data on all the trainers. Their pokemon, dialogues, whether they're gym leaders or not, etc.
 
 #### • [ pkmn.json + moves.json]
-This JSON file keeps the info on all the pokemon and moves in the program.
+This JSON file keeps the info on all the pokemon and moves in the program. For moves.json: phys = whether the attack reduces HP or not, stat_change = if the move raises your stats or decreases the foe's stats.
 
 #### • [ pkmn.py + moves.py ]
 The sole purpose of these is to transfer the data from the JSON files to Python so they can be imported to Battlesim. There's probably an easier way to do this. But whatever.
