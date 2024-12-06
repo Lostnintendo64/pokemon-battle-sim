@@ -9,7 +9,7 @@ Fight with various trainers. If you're up for the challenge, take on the 8 gym l
 
 #### How many Pokemon are there?
 
-[number], I plan on adding more whenever I get the time
+50, I plan on adding more whenever I get the time.
 
 #### Where's the Elite 4?
 
